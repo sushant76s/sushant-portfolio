@@ -22,7 +22,7 @@ const Navbar = () => {
                 ))}
             </ul>
                 
-                {/* <SocialMedia /> */}
+                <SocialMedia />
 
             <div className="app__navbar-menu">
                 <HiMenuAlt4 onClick={() => setToggle(true)} />
