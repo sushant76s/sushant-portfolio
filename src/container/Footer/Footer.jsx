@@ -76,7 +76,7 @@ const Footer = () => {
         </div>
       )}
       <div className="copyright">
-        <p className="p-text"> &copy; 2023 Sushant</p>
+        <p className="p-text"> &copy; 2024 Sushant</p>
         <p className="p-text">All rights reserved</p>
       </div>
     </>
